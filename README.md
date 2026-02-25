@@ -5,7 +5,7 @@
 
 ### 🎓 Professional Background
 - 🎓 **Computer Engineering Master's Student** at Firat University.
-- 🔬 Focused on **Predictive Modeling**, **Biomedical Data Science**, and **CRM Analytics**.
+- 🔬 Data Scientist & AI Researcher. Transforming raw data into impact through Healthcare AI, Advanced Regression, and Strategic Business Intelligence.
 - 🌍 Actively seeking **Erasmus+ Internship** opportunities for 2026.
 
 ---
