@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I'm Sümeyye Bakırdal 👋</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+MS;Data+Science+%26+ML+Expert;AI+Researcher;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+MS;Data+Science+%26;AI+Researcher;Python+Developer" alt="Typing SVG" />
 </p>
 
 ### 🎓 Professional Background
