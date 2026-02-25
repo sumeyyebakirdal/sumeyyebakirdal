@@ -50,17 +50,8 @@
 - **[Twitter Data Scraper](https://github.com/sumeyyebakirdal/Twitter-data-scraper):** Automated tool for social media data extraction.
 
 ---
-
-### 📈 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumeyyebakirdal&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeyyebakirdal&theme=radical" />
-</p>
-
 ### 📫 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/sumeyyebakirdal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/sumeyyebakirdal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
