@@ -20,9 +20,9 @@
 
 #### 🏥 Healthcare AI & Bioinformatics
 *Advanced research on medical imaging and genomic data analysis.*
-- **[Pneumonia Detection YOLOv11](https://github.com/sumeyyebakirdal/Pneumonia-Detection-YOLO11-SOTA):** SOTA object detection on RSNA dataset using YOLOv11. Achieved significant mAP scores in pneumonia localization.
-- **[Brain Tumor Segmentation](https://github.com/sumeyyebakirdal/Brain-Tumor-Segmentation-Attention-UNet):** Implementation of **Attention U-Net** for precise tumor boundary detection in MRI scans, focusing on spatial awareness.
 - **[Multi-Agent X-Ray Segmentation](https://github.com/sumeyyebakirdal/Multi_Agent_X-ray_Segmentation):** An innovative Multi-Agent Deep Learning architecture for automated fracture identification (IoU: 0.88).
+- **[Brain Tumor Segmentation](https://github.com/sumeyyebakirdal/Brain-Tumor-Segmentation-Attention-UNet):** Implementation of **Attention U-Net** for precise tumor boundary detection in MRI scans, focusing on spatial awareness.
+- **[Pneumonia Detection YOLOv11](https://github.com/sumeyyebakirdal/Pneumonia-Detection-YOLO11-SOTA):** SOTA object detection on RSNA dataset using YOLOv11. Achieved significant mAP scores in pneumonia localization.
 - **[TCGA Cancer Classification](https://github.com/sumeyyebakirdal/TCGA-Cancer-Classification-ML):** Classification of 33 cancer types using high-dimensional genomic data.
 - **[AI vs Human Face Classification](https://github.com/sumeyyebakirdal/AI-vs-Human-Face-Classification):** Computer Vision project to distinguish synthetic and real faces.
 - **[Real-time Face Detection](https://github.com/sumeyyebakirdal/Python-kameradan-yuz-tespiti):** OpenCV-based camera integration for face recognition.
